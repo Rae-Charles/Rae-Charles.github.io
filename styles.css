@@ -1,1 +1,32 @@
-/* information on what style the html webpage is to follow goes on this page */
+body {
+    background-image: url("background-image.png");
+    background-color: #cccccc;
+}
+
+a.Home{
+    color:rgb(255, 255, 255);
+    text-align: center
+}
+
+a.About Me{
+    color:rgb(255, 255, 255);
+    text-align: center
+}
+
+a.Projects{
+    color:rgb(255, 255, 255);
+    text-align: center
+}
+
+a.Contact Info{
+    color:rgb(255, 255, 255);
+    text-align: center
+}
+
+.container{
+    height: 34px;
+    padding-top: 12px;
+    padding-bottom: 0px;
+    background-color: #000;
+    text-align: center
+}
